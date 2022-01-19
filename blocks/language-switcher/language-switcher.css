@@ -16,4 +16,12 @@
 
 .language-switcher:hover {
     opacity: 0.8;
+    text-decoration: underline;
+}
+
+@media screen and (max-width:320px) {
+    .language-switcher   {  
+        font-size: 18px;
+        line-height: 20px;
+} 
 }

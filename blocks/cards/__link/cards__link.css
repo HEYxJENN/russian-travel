@@ -1,8 +1,8 @@
 .cards__link {   
     grid-area:link;
-    position: relative;
-    bottom: 0px;
+
     margin: 0px; 
+    align-self:flex-end;
 
     font-family: Inter;
     font-style: normal;
@@ -15,3 +15,11 @@
 
 
 }
+
+
+  @media screen and (max-width:320px) {
+    .cards__link  {  
+    margin: 32px auto 18px;
+    max-width: 288px;   
+  } 
+  }

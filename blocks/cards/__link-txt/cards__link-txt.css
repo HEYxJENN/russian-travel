@@ -10,3 +10,7 @@ text-decoration-line: underline;
 
 color: #FFFFFF;
 }
+
+.cards__link-txt:hover {
+ opacity: 0.8;
+}

@@ -2,3 +2,11 @@
 display: flex;
 justify-content: space-between;
 }
+
+@media screen and (max-width:320px) {
+    .footer__columns {  
+        max-width: 186px;
+        max-height: 310px;
+        flex-direction: column;
+  } 
+  }
