@@ -1,0 +1,17 @@
+.cards__link {   
+    grid-area:link;
+    position: relative;
+    bottom: 0px;
+    margin: 0px; 
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+ 
+    color: #FFFFFF;
+
+
+}

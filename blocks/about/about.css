@@ -1,0 +1,8 @@
+.about {
+    position: relative;
+    align-items: center;
+    margin: 56px auto 0px;
+    
+    max-width: 984px;
+    max-height: 1005px;
+}

@@ -1,0 +1,16 @@
+.language-switchers {
+    right:0px;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height, or 117% */
+    
+    text-align: right;
+  
+    
+    color: #FFFFFF; 
+}

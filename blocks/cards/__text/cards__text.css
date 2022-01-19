@@ -1,0 +1,15 @@
+.cards__text {
+    grid-area: text;
+    margin: 0px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+/* or 29px */
+
+
+color: #FFFFFF;
+
+}
