@@ -1,23 +1,22 @@
-.cards__link {   
-    grid-area:link;
+.cards__link {
+  grid-area: link;
 
-    margin: 0px;
-    align-self:flex-end;
+  margin: 0px;
+  align-self: flex-end;
 
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    /* identical to box height, or 122% */
- 
-    color: #FFFFFF;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height, or 122% */
+
+  color: #ffffff;
 }
 
-
-  @media screen and (max-width:320px) {
-    .cards__link  {  
+@media screen and (max-width: 320px) {
+  .cards__link {
     margin: 32px auto 18px;
-    max-width: 288px;   
-  } 
+    max-width: 288px;
   }
+}

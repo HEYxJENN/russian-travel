@@ -1,6 +1,6 @@
 .cards__text-block {
-    grid-area: text;
-    margin: 0px;
-    max-width: 484px;
-    max-height: 348px;
+  grid-area: text;
+  margin: 0px;
+  max-width: 484px;
+  max-height: 348px;
 }

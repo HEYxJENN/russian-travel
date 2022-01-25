@@ -1,18 +1,18 @@
 .about__main-image-caption {
-margin:0px;
-margin-top: 8px;
+  margin: 0px;
+  margin-top: 8px;
 
-max-width: 158px;
-max-height: 14px;
+  max-width: 158px;
+  max-height: 14px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 140%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 140%;
 
-letter-spacing: 1.5px;
-text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
 
-color: #FFFFFF;
+  color: #ffffff;
 }

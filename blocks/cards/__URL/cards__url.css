@@ -1,22 +1,22 @@
 .cards__url {
-    text-decoration: none;
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 12px;
-/* identical to box height, or 100% */
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height, or 100% */
 
-letter-spacing: 2px;
-color: #AAAAAA;
+  letter-spacing: 2px;
+  color: #aaaaaa;
 }
 
-@media screen and (max-width:320px) {
-    .cards__url {  
+@media screen and (max-width: 320px) {
+  .cards__url {
     margin-bottom: 12px;
-  } 
   }
+}
