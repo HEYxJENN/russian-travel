@@ -4,7 +4,6 @@
   min-width: 1184px;
 
   position: relative;
-
 }
 
 @media screen and (max-width: 1024px) {
@@ -30,5 +29,3 @@
     margin-top: 66px;
   }
 }
-
-
