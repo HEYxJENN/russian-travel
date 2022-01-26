@@ -3,6 +3,7 @@
   list-style-type: none;
   margin: 0px;
   padding: 0px;
+  margin-bottom: 12px;
 
   font-family: Inter;
   font-style: normal;
@@ -13,10 +14,4 @@
 
   letter-spacing: 2px;
   color: #aaaaaa;
-}
-
-@media screen and (max-width: 767px) {
-  .cards__url {
-    margin-bottom: 12px;
-  }
 }
