@@ -4,25 +4,21 @@
   margin: 56px auto 0px;
 
   max-width: 984px;
-  max-height: 1005px;
 }
 
 @media screen and (max-width: 1024px) {
   .about {
     max-width: 928px;
-    max-height: 962px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .about {
     max-width: 768px;
-    max-height: 862px;
   }
 }
 @media screen and (max-width: 320px) {
   .about {
     max-width: 320px;
-    max-height: 406px;
   }
 }

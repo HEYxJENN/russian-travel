@@ -1,6 +1,5 @@
 .intro__container {
   max-width: 690px;
-  max-height: 429px;
 
   padding-top: 92px;
 }
@@ -8,7 +7,6 @@
 @media screen and (max-width: 768px) {
   .intro__container {
     max-width: 720px;
-    max-height: 429px;
     margin: auto;
   }
 }
@@ -16,6 +14,5 @@
 @media screen and (max-width: 320px) {
   .intro__container {
     max-width: 288px;
-    max-height: 754px;
   }
 }

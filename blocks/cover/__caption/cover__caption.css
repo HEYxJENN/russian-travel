@@ -1,10 +1,5 @@
 .cover__caption {
-  position: absolute;
-  top: 429px;
-  left: 412px;
-
   max-width: 360px;
-  max-height: 66px;
   text-align: center;
 
   font-family: Inter;
@@ -13,37 +8,29 @@
   font-size: 18px;
   line-height: 22px;
   /* or 122% */
-
-  margin: 0px auto;
-
+  margin: 32px auto;
   color: #ffffff;
+  position: relative;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .cover__caption {
     font-size: 18px;
     line-height: 22px;
-
-    top: 379px;
-    left: 332px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .cover__caption {
     font-size: 18px;
     line-height: 22px;
-
-    top: 299px;
-    left: 204px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__caption {
     font-size: 14px;
-    line-height: 16px;
-    top: 119px;
-    left: 16px;
+    line-height: 16px;   
+    margin-top: 16px;
   }
 }

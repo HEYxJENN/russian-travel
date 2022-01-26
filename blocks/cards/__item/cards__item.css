@@ -11,7 +11,7 @@
   margin-bottom: 0px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cards__item {
     display: block;
   }
