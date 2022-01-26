@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 767px) {
   .cards__link {
-    margin: 32px auto 18px;
+    margin: 32px 0px 18px;
     max-width: 288px;
   }
 }
