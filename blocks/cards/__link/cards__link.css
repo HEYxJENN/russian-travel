@@ -4,7 +4,7 @@
   margin: 0px;
   align-self: flex-end;
 
-  font-family: "Inter";
+  font-family: "Inter", "Helvetica Neue", Arial,;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 767px) {
   .cards__link {
-    margin: 32px 16px 18px;
+    margin: 32px auto 32px 16px;
     max-width: 288px;
   }
 }
