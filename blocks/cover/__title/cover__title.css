@@ -5,7 +5,7 @@
   max-width: 560px;
   text-align: center;
 
-  font-family: "Inter", "Helvetica Neue", Arial,;
+  font-family: "Inter", "Helvetica Neue", Arial;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
@@ -16,6 +16,12 @@
 
   color: #ffffff;
   position: relative;
+}
+
+@media screen and (max-width: 768px) {
+  .cover__title {
+    padding-top: 115px;
+  }
 }
 
 @media screen and (max-width: 767px) {
